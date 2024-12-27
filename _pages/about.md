@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Vaishnav V. Rao. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Namaskara! I am Vai, a PhD Student at the University of Michigan. I like studying how galaxies form and evolve by resolving their stellar populations and reconstructing their formation histories. I also like hunting for the most dark-matter dominated systems in the Universe called ultra-faint dwarf galaxies (UFDs), that typically live in stellar halos of other big, nearby galaxies. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
