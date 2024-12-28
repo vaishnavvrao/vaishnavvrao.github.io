@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Who am I?
+title: Home
 permalink: /
 subtitle: <a href='https://lsa.umich.edu/astro'>Department of Astronomy, University of Michigan</a>
 
