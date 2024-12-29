@@ -5,7 +5,7 @@
     "image": "",
     "email": "vvrao(at)umich.edu",
     "phone": "(seven three four) 450 4691",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://vaishnavvrao.github.io/",
     "summary": "PhD Student in Astronomy interested in studying galaxy evolution through their resolved stellar populations",
     "location": {
       "address": "406 West Hall, University of Michigan",
@@ -13,14 +13,7 @@
       "city": "Ann Arbor",
       "countryCode": "US",
       "region": "Michigan"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
