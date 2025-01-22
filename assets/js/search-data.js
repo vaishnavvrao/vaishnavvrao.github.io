@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-presentations",
+          title: "Presentations",
+          description: "The Research posters I have presented at various conferences.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
