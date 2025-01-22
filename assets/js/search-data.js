@@ -42,7 +42,7 @@ ninja.data = [{
           description: "The Research posters I have presented at various conferences.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/presentation/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
