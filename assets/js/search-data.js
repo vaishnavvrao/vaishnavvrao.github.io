@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "My contributions to the sum of human knowledge.",
           section: "Navigation",
@@ -72,15 +65,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-stars-born-in-the-wind-the-story-of-m82-39-s-outflow",
       
-        title: "",
+        title: "Stars Born in the Wind- The Story of M82&#39;s Outflow",
       
-      description: "",
+      description: "A deep dive into the stellar populations of M82&#39;s halo, revealing how galactic outflows shape star formation.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-08-12-m82/";
+          window.location.href = "/blog/2025/m82/";
         
       },
     },{id: "post-a-post-with-image-galleries",
