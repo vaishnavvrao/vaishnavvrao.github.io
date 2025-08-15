@@ -56,6 +56,13 @@
   ],
   "publications": [
     {
+      "name": "Stars Born in the Wind: M82's Outflow & Halo Star Formation",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2025-08-15",
+      "url": "https://arxiv.org/abs/2508.10895",
+      "summary": "We study how stars form in starburst outflows by obtaining the star formation history of the Southern Arcs in M82"
+    },
+    {
       "name": "AGN Feedback Through Multiple Jet Cycles in the Seyfert Galaxy NGC 2639",
       "publisher": "Monthly Notices of the Royal Astronomy Society",
       "releaseDate": "2023-06-23",
