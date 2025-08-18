@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Vaishnav V. Rao # the website title (if blank, full name will be used instead)
+title: Vaishnav V. Rao  # the website title (if blank, full name will be used instead)
 first_name: Vaishnav
 middle_name: V.
 last_name: Rao
 contact_note: >
   The best way to reach me is via email
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Vaishnav V. Rao's research website
+  Vaishnav V. Rao is an Astronomy PhD student at the University of Michigan studying galaxy evolution, stellar halos, and star formation histories.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: vaishnavrao, astronomy, stellar-halos, galaxies, star formation, astrophysics # add your own keywords or leave empty
+keywords: vaishnav rao, vaishnav v. rao, michigan, astronomy, stellar-halos, galaxies, star formation, astrophysics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
