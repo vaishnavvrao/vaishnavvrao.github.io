@@ -20,7 +20,7 @@ In this context, arcs of stars ~5 kpc south of M82 -- henceforth the Southern Ar
     </div>
 </div>
 <div class="caption">
-    This Hubble Space Telescope map of resolved "young stars" in M82's halo shows the southern arcs, which are the focus of this project. Clues of widespread star formation in the halo of M82 are also apparent from the ANGST survey.
+    This Hubble Space Telescope map of resolved "young stars" in M82's halo shows the Southern Arcs, which are the focus of this project. Clues of widespread star formation in the halo of M82 are also apparent from the ANGST survey.
 </div>
 
 <div class="row">
@@ -32,7 +32,7 @@ In this context, arcs of stars ~5 kpc south of M82 -- henceforth the Southern Ar
     We obtained the star formation history (SFH) of the Southern Arcs through the MATCH software to better understand the time evolution of the outflow's star formation influence.
 </div>
 
-<h2>Pieces of Evidence </h2>
+<h2>What does the data say?</h2>
 
 -  The Southern Arcs formed approximately 85% of its stellar mass between ~150 Myr and ~70 Myr ago, followed by a brief pause in star formation. The remaining 15 % of its stellar mass formed after ~30 Myr ago.
 - SFHs derived from the ANGST dataset along with age distributions of star clusters in the disk show that the SFH of the M82 disk is correlated with the SFH of the Southern Arcs, especially when considering the ~100$ Myr burst of star formation.
@@ -48,7 +48,7 @@ In this context, arcs of stars ~5 kpc south of M82 -- henceforth the Southern Ar
     The multi-wavelength view of M82's outflow, showing the Southern Arcs.
 </div>
 
-<h2>Two Possible Mechanisms to Tie in the Evidence</h2>
+<h2>Two plausible stories for the formation of the Southern Arcs</h2>
 
 1. **Shock Induced Star Formation**: Star formation in the Southern Arcs could be triggered by shocks produced by the outflows. These shocks, generally linked to some form of interaction between the hot and cool phases of the outflow or the ambient medium, could have encountered colder, denser circumgalactic medium (CGM) clouds and compressed the gas, leading to gravitational collapse and subsequent star formation along shock fronts. This mode of star formation is analogous to AGN-jet induced star formation observed in Centaurus A's halo. In this scenario, multiple starburst episodes in the disk results in a bursty outflow, that triggers multiple generations of co-spatial star formation in the Southern Arcs' progenitor cloud. 
 
@@ -63,9 +63,9 @@ In this context, arcs of stars ~5 kpc south of M82 -- henceforth the Southern Ar
     An illustration of the two possible mechanisms of outflow-induced star formation in the Southern Arcs.
 </div>
 
-<h2>Caveats and Observational Tests </h2>
+<h2>Of course there are caveats!</h2>
 The two scenarios we propose for the formation of the Southern Arcs involve highly non-linear, multi-phase gas physics that is inherently difficult to model. Each depends on a range of physical parameters—such as the detailed starburst history of M82, the efficiency of supernova feedback, wind mass-loading, the galaxy’s dynamical mass distribution, and the nature of its environment, including the composition, density, and morphology of CGM clouds. Many of these factors are challenging to constrain observationally, making it difficult to uniquely favor one scenario over the other based on theoretical grounds alone.
 
 Nevertheless, we suggest a promising observational avenue for distinguishing between these scenarios: measuring the metallicities of stars from the two stellar populations in the Southern Arcs. If the stars from the two populations have similar metallicities, a scenario where shocks compressed the same cloud multiple times may be favorable. If the metallicities are significantly different, the second scenario of stars forming directly within the outflow and involving multiple clouds may be more likely. While both scenarios have their own challenges and uncertainties, such metallicity measurements offer a concrete path forward to better constrain the physical origin of the Southern Arcs.
 
-Read more about this research in my peer reviewed paper in the Astrophysical Journal! ({% cite Rao_2025%}). All references for this article can be found within the paper.
+Read more about this research in my peer reviewed paper in the Astrophysical Journal! {% cite Rao_2025%}. All references for this article can be found within the paper.
