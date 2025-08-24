@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-ನಮಸ್ಕಾರ! (Namaskara!) My name is Vaishnav (Vai) Rao. I'm a PhD candidate in Astronomy at the University of Michigan, where I work with Prof. Eric Bell. 
+ನಮಸ್ಕಾರ! (Namaskara!) My name is Vaishnav (Vai) Rao. I'm a PhD candidate in Astronomy at the University of Michigan, where I work with [Prof. Eric Bell](bell-link). 
 
 I'm passionate about understanding how galaxies form and evolve. I'm particularly interested in their stellar halos—the extended, faint regions of stars that surround galaxies. These halos act as fossil records of a galaxy’s past, preserving clues about its merger history through the presence of stellar streams, disrupted satellites, and globular clusters. In some cases, halos even contain populations of young stars that formed in the halo itself. These young stars provide insight into the history of feedback processes that influence star formation on galactic scales.
 
@@ -26,5 +26,5 @@ My research centers on the M81 Galaxy Group, a nearby trio of interacting galaxi
 
 I'm also passionate about hunting for ultra-faint dwarf galaxies (UFDs) in the M81 Group. These tiny, ancient systems are some of the most dark matter-dominated galaxies known and provide critical insight into the small-scale structure of the universe.
  
-
+[bell-link]: https://lsa.umich.edu/astro/people/core-faculty/ericbell.html
 
