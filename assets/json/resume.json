@@ -56,10 +56,17 @@
   ],
   "publications": [
     {
+      "name": "Stars Born in the Wind II: Widespread Extra-planar Star Formation in M82's Halo",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2026-04-01",
+      "url": "https://arxiv.org/abs/2604.03230",
+      "summary": "We map the stars formed in M82's halo as a result of it's starburst outflow and motion through M81's ambient medium"
+    },
+    {
       "name": "Stars Born in the Wind: M82's Outflow & Halo Star Formation",
       "publisher": "The Astrophysical Journal",
       "releaseDate": "2025-08-15",
-      "url": "https://arxiv.org/abs/2508.10895",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/adfdce",
       "summary": "We study how stars form in starburst outflows by obtaining the star formation history of the Southern Arcs in M82"
     },
     {
